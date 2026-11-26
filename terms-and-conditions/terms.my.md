@@ -1,446 +1,210 @@
-# TeleConnect
-# INFORMATION NOTICE AND GENERAL CONDITIONS OF USE
-# Updated 04.09.2024
+# TeleConnect (T&C) ဆိုင်ရာ စည်းကမ်းများ
+# သတင်းအချက်အလက်ဆိုင်ရာ အသိပေးချက် နှင့် အထွေထွေ အသုံးပြုမှုဆိုင်ရာ စည်းကမ်းများ
+# နောက်ဆုံးပြင်ဆင်သည့်နေ့ရက် ၀၄.၀၉.၂၀၂၄
 
-## 1. INFORMATION NOTICE
-You are using an online communication tool from the International Committee of
-the Red Cross called TeleConnect.
+## ၁။  သတင်းအချက်အလက်ဆိုင်ရာ အသိပေးချက်
+သင်သည် အပြည်ပြည်ဆိုင်ရာ ကြက်ခြေနီကော်မတီ၏ TeleConnect ဟုခေါ်သော အွန်လိုင်းဆက်သွယ်ရေးပစ္စည်းကိရိယာကို အသုံးပြုနေပါသည်။
 
-The International Committee of the Red Cross (ICRC) is an impartial, neutral and
-independent organization whose exclusively humanitarian mission is to protect
-the lives and dignity of victims of armed conflicts and other situations of
-violence and to provide them with assistance.
+အပြည်ပြည်ဆိုင်ရာ ကြက်ခြေနီကော်မတီ (အိုင်စီအာရ်စီ) သည် ခွဲခြားမှုမရှိဘဲ၊ ကြားနေပြီး လွတ်လပ်စွာ ရပ်တည်သည့်အဖွဲ့အစည်းတစ်ခုဖြစ်ကာ ယင်း၏ တစ်ခုတည်းသော တာဝန်ဖြစ်သည့် လူသားချင်းစာနာမှုဆိုင်ရာ လုပ်ငန်းများ၏ ရည်ရွယ်ချက်မှာ လက်နက်ကိုင်ပဋိပက္ခနှင့် အခြားအကြမ်းဖက်မှုအခြေအနေများကြောင့် ဒုက္ခရောက်သူများ၏ အသက်နှင့် ဂုဏ်သိက္ခာကို အကာကွယ်ပေးရန်ဖြစ်ပြီး ယင်းတို့အား အထောက်အပံ့ပေးရန် ဖြစ်ပါသည်။
 
-The ICRC is committed to treating your Personal Data with security, respect and
-confidentiality: the Processing of an individual's Personal Data carried out by
-the ICRC is performed in compliance with the ICRC Rules on Personal Data
-Protection. To read the Rules and learn more on how ICRC approaches data
-protection go here.
+အိုင်စီအာရ်စီ သည် မိမိ၏ ပုဂ္ဂိုလ်ရေးအချက်အလက်များကို လုံခြုံစွာ၊ လေးစားစွာနှင့် အတွင်းရေးကိစ္စအဖြစ်သတ်မှတ် ရန် ကတိကဝတ်ပြုထားပါသည်။ အိုင်စီအာရ်စီက  စီမံသော တစ်ဦးချင်း၏ ပုဂ္ဂိုလ်ရေးအချက်အလက်များကို  အိုင်စီအာရ်စီ၏ ပုဂ္ဂိုလ်ရေးအချက်အလက် ကာကွယ်ရေးဆိုင်ရာ  စည်းမျဉ်းများနှင့်အညီ ဆောင်ရွက်ပါသည်။ စည်းမျဉ်းများကို ဖတ်ရှုရန်နှင့် အိုင်စီအာရ်စီ ၏ အချက်အလက်ကာကွယ်ရန် လုပ်ဆောင်ပုံကို ပိုမိုသိရှိရန် ဤနေရာသို့ သွားပါ။
 
-This Information Notice describes why and how the ICRC collects and processes
-your Personal Data when you use the TeleConnect tool, and how such information
-is stored and protected. You will also find information on how you can exercise
-your rights as a data subject.
+ဤ အချက်အလက်ဆိုင်ရာ အသိပေးချက်သည်  TeleConnect ပစ္စည်းကိရိယာကို အသုံးပြုသည့်အခါ အိုင်စီအာရ်စီက  မိမိ၏ ပုဂ္ဂိုလ်ရေးအချက်အလက်များကို အဘယ်ကြောင့်နှင့် မည်သို့ ယူဆောင်၊ စီမံသည်၊ပြီးလျှင် ယင်းကို မည်သို့ သိမ်းဆည်းကာ ကာကွယ်ထားသည်ကို ဖော်ပြထားပါသည်။ အချက်အလက်ပိုင်ဆိုင်သူတစ်ဦးအနေဖြင့် မိမိ၏ အခွင့်အရေးများကို မည်သို့ ကျင့်သုံးနိုင်ကြောင်းလည်း တွေ့ရှိနိုင်ပါသည်။
 
-Any Personal Data disclosed to the ICRC will not be used by the ICRC in ways
-other than as set forth in this Information Notice.
+အိုင်စီအာရ်စီ သို့ ပေးအပ်ထားသော မည်သည့် ပုဂ္ဂိုလ်ရေးသတင်းအချက်အလက်မဆို ဤအသိပေးချက်နည်းလမ်းများမှလွဲ၍ အခြားနည်းလမ်းများဖြင့် အိုင်စီအာရ်စီက အသုံးပြုမည် မဟုတ်ပါ။
 
-To see country specific details below (where these exist), select the country
-from which you are accessing the tool.
+အောက်ပါ နိုင်ငံအလိုက် အသေးစိတ်အချက်အလက်များ (ရှိပါက) ကို ကြည့်ရှုရန်၊ ပစ္စည်းကိရိယာကို မိမိလက်လှမ်းမှီအသုံးပြုနေသည့် နိုင်ငံအား ရွေးချယ်ပါ။
 
-**Note for those using TeleConnect for health assistance**: Please note that the
-health facilities and medical personnel with which/whom the ICRC cooperates do
-not follow the ICRC’s Rules on Personal Data Protection, and instead may rely
-upo n country specific data protection legislation and internal policies.
+**ကျန်းမာရေးအထောက်အပံ့အတွက် TeleConnect ကို အသုံးပြုနေသူများသိစေရန် ** - အိုင်စီအာရ်စီ က ပူးပေါင်းဆောင်ရွက်သော ဆေးရုံများနှင့် ဆေးဘက်ဆိုင်ရာဝန်ထမ်းများသည် ပုဂ္ဂိုလ်ရေးအချက်အလက် ကာကွယ်ရေးဆိုင်ရာ အိုင်စီအာရ်စီ၏ စည်းမျဉ်းများကို  မလိုက်နာဘဲ၊ ယင်းအစား နိုင်ငံအလိုက် အချက်အလက်ကာကွယ်ရေး ဥပဒေများနှင့် အတွင်းရေးမူဝါဒများကို မှီခိုအားထားနိုင်ပါသည်။
 
-Your Personal Data is collected and processed for the following purposes:
+မိမိ၏ ပုဂ္ဂိုလ်ရေးအချက်အလက်များကို အောက်ပါရည်ရွယ်ချက်များအတွက် ယူဆောင်၊  စီမံပါသည်။
 
-+ Providing remote services through teleconsultations, including health services
-  and protection services.
-+ Gathering necessary medical expertise through remote tele-expert meetings.
-+ For health-related uses, creating certain health workers a Clinician account
-  in the Tool and allowing for the provision of medical services remotely
-+ Ensuring the efficacy and information security of the Tool.
++ ကျန်းမာရေးဝန်ဆောင်မှုများနှင့် ကာကွယ်စောင့်ရှောက်ရေးဝန်ဆောင်မှုများ အပါအဝင် အဝေးမှ နေ၍ တိုင်ပင်ဆွေးနွေးမှုများမှတစ်ဆင့် ဝန်ဆောင်မှုများ ပေးအပ်ရန်။
++ အဝေးမှနေ၍ ကျင်းပသော ကျွမ်းကျင်ပညာရှင်အစည်းအဝေး များမှတစ်ဆင့် လိုအပ်သော ဆေးပညာဆိုင်ရာ အသိပညာ၊ အတတ်ပညာကို ရယူရန်။
++ ကျန်းမာရေးနှင့်ဆက်နွယ်သော အသုံးပြုမှုများဆိုင်ရာ အချို့သော ကျန်းမာရေးဝန်ထမ်းများအတွက် ဆက်သွယ်ရေးပစ္စည်းကိရိယာ၌ ဆေးကုသသူ အကောင့်တစ်ခု ဖန်တီးပေးပြီး ဆေးဘက်ဆိုင်ရာဝန်ဆောင်မှုများကို အဝေးမှနေ၍ ပေးအပ်ရန်။
++ ဆက်သွယ်ရေးပစ္စည်း၏ ထိရောက်မှုနှင့် အချက်အလက်ဆိုင်ရာ ဘေးအန္တရာယ်ကင်းရှင်းရေးကို သေချာစေရန်။
 
-### A. What information do we collect about you?
+### က။ သင်နှင့်ပတ်သက်၍ မည်သည့်သတင်းအချက်အလက်များကို ယူဆောင်သနည်း။
 
-Now you are on this TeleConnect platform, the ICRC collects Identification data
-and contact data required for use of Tool:
+သင်သည် ဤ TeleConnect ပလက်ဖောင်းပေါ်တွင် ရှိနေသည်နှင့်အမျှ အိုင်စီအာရ်စီ သည် ဆက်သွယ်ရေးပစ္စည်းကိရိယာအသုံးပြုရန်အတွက် လိုအပ်သော မှတ်ပုံတင်အချက်အလက်များနှင့် ဆက်သွယ်ရန်အချက်အလက်များကို ယူဆောင်ပါသည်။
 
-+ Your name,
-+ Your surname,
-+ Your gender
-+ Your email or phone number,
-+ The language you use and your country of residence,
-+ Data you may have shared via the TeleConnect tool depending on the purpose for
-  which it is used.
++ သင်၏ အမည်၊
++ သင်၏ မျိုးရိုးအမည်၊
++ သင်၏ ကျား/မ၊
++ သင်၏ အီးမေးလ် သို့မဟုတ် ဖုန်းနံပါတ်၊
++ သင်အသုံးပြုသော ဘာသာစကားနှင့် သင်နေထိုင်ရာနိုင်ငံ၊
++ အသုံးပြုသည့် ရည်ရွယ်ချက်ပေါ်မူတည်၍ TeleConnect ပစ္စည်းကိရိယာကတစ်ဆင့် သင်မျှဝေခဲ့သော အချက်အလက်များ။
 
-**Note for those using TeleConnect for health assistance**: The ICRC also
-collects information, including medical data shared during the teleconsultation
-or tele-expert meeting, (e.g. comments made in the chat, uploaded scans,
-pictures, medical results).
+**ကျန်းမာရေးအထောက်အပံ့အတွက် TeleConnect ကို အသုံးပြုနေသူများသိစေရန် ** -အိုင်စီအာရ်စီ သည် အဝေးမှနေ၍တိုင်ပင်ဆွေးနွေးမှု သို့မဟုတ် အဝေးမှနေ၍ ကျင်းပသော ကျွမ်းကျင်ပညာရှင် အစည်းအဝေးအတွင်း မျှဝေခဲ့သော ဆေးဘက်ဆိုင်ရာအချက်အလက်များ (ဥပမာ - စကားပြောဆိုရာတွင်ပြုလုပ်ခဲ့သော မှတ်ချက်များ၊  စကင်ဖတ်ပြီး တင်ထားသော စာရွက်စာတမ်းများ၊ ဓာတ်ပုံများ၊ ဆေးရလဒ်များ) အပါအဝင် အချက်အလက်များကိုလည်း ယူဆောင်ပါသည်။
 
-### B. Data retention – how long does the ICRC keep your data?
+### ခ။ အချက်အလက်သိမ်းဆည်းမှု – အိုင်စီအာရ်စီ သည် သင်၏အချက်အလက်များကို မည်မျှကြာအောင် သိမ်းဆည်းထားသနည်း။
 
-As a beneficiary of services, your information will be stored in Teleconnect for
-24 hours and after this duration, your information will be deleted from
-TeleConnect.
+ဝန်ဆောင်မှုခံစားခွင့်ရှိသူတစ်ဦးအနေဖြင့် သင်၏အချက်အလက်များကို TeleConnect တွင် ၂၄ နာရီကြာ သိမ်းဆည်းထားမည်ဖြစ်ပြီး ထိုကာလပြီးနောက် သင်၏အချက်အလက်များကို TeleConnect မှ ဖျက်သိမ်းမည်ဖြစ်ပါသည်။
 
-If there is further information concerning data retention specific to your
-country of residence, please see your country specific information at the end of
-this document.
+သင်နေထိုင်ရာနိုင်ငံနှင့် သက်ဆိုင်သော အချက်အလက်သိမ်းဆည်းမှုဆိုင်ရာအချက်အလက်များနောက်ထပ်ရှိပါက ဤစာ၏ အဆုံးတွင်ပါရှိသော နိုင်ငံအလိုက် အချက်အလက်များကို ကြည့်ရှုပါ။
 
 <em>
-Note for those using TeleConnect for health assistance: The Clinician has to migrate your medical data into the paper or Electronic Medical Record (“EMR”). The medical record is maintained by the hospital or health service in compliance with its internal retention policy. Contact the hospital or health service in order to better understand how long the hospital or health service shall keep your records.
-As a requestor or user as service provider, a review of users shall be carried out twice a year, as per mandatory ICRC data security requirement for critical humanitarian information. Inactive users' (persons who have changed roles according to the implementation focal point) data will be purged.
+ကျန်းမာရေးအထောက်အပံ့အတွက် TeleConnect ကို အသုံးပြုနေသူများသိစေရန်  -ဆေးကုသသူသည် သင်၏ဆေးဘက်ဆိုင်ရာအချက်အလက်များကို စာရွက်အဖြစ်သို့ဖြစ်စေ  အီလက်ထရွန်နစ် ဆေးမှတ်တမ်း ("EMR") အဖြစ်သို့ဖြစ်စေ ပြောင်းရွှေ့ရပါမည်။ ဆေးမှတ်တမ်းကို ဆေးရုံ သို့မဟုတ် ကျန်းမာရေးဝန်ဆောင်မှုဌာနမှ ယင်း၏ အတွင်းရေးဆိုင်ရာသိမ်းဆည်းမှုမူဝါဒနှင့်အညီ ထိန်းသိမ်းထားပါသည်။ ဆေးရုံ သို့မဟုတ် ကျန်းမာရေးဝန်ဆောင်မှုဌာနမှ သင်၏မှတ်တမ်းများကို မည်မျှကြာအောင် သိမ်းဆည်းထားမည်ကို ပိုမိုသိရှိနိုင်ရန် ယင်းတို့ထံ ဆက်သွယ်ပါ။
+တောင်းဆိုသူ သို့မဟုတ် ဝန်ဆောင်မှုပေးသူအဖြစ် အသုံးပြုသူတစ်ဦးအနေဖြင့် အရေးကြီးသော လူသားချင်းစာနာမှုဆိုင်ရာ အချက်အလက်များအတွက် အိုင်စီအာရ်စီ ၏ မဖြစ်မနေလုပ်ဆောင်ရမည့် အချက်အလက်ဆိုင်ရာလုံခြုံရေးလိုအပ်ချက်အရ အသုံးပြုသူများကို တစ်နှစ်လျှင် နှစ်ကြိမ် သုံးသပ်မည်ဖြစ်ပါသည်။  အသက်မဝင်သော အသုံးပြုသူများ (အကောင်အထည်ဖော်ရေး ဆိုင်ရာ အဓိကဆက်သွယ်ရမည့်သူ အဆိုအရ ရာထူးတာဝန်ပြောင်းလဲသွားသူများ) ၏ အချက်အလက်များကို ဖျက်သိမ်းမည်ဖြစ်ပါသည်။
 </em>
 
-### C. Legal basis – what allows the ICRC to process your data?
+### ဂ။ ဥပဒေဆိုင်ရာအခြေခံ – အိုင်စီအာရ်စီ အား သင်၏အချက်အလက်များကို မည်သည့် အရာက စီမံခွင့်ပြု သနည်း။
 
-The legal basis for the Processing of your Personal Data for the purpose of
-providing remote support through TeleConnect is the ICRC’s Public interest based
-on ICRC’s mandate, and in exceptional cases of providing essential and
-life-saving assistance the vital interest of the individual.
+TeleConnect မှတစ်ဆင့် အဝေးမှနေ၍အထောက်အပံ့ပေးအပ်ရန် ရည်ရွယ်ချက်အတွက် သင်၏ ပုဂ္ဂိုလ်ရေးအချက်အလက်များကို စီမံခြင်း၏ ဥပဒေဆိုင်ရာအခြေခံမှာ  အိုင်စီအာရ်စီ၏ လုပ်ပိုင်ခွင့်ပြဌာန်းတာဝန်အပေါ် အခြေခံသည့်  အိုင်စီအာရ်စီ၏ အများအကျိုးအတွက်ဖြစ်ပြီး၊ မရှိမဖြစ်လိုအပ်သော အသက်ကယ်တင်ရေးအထောက်အပံ့ပေးရသည့် အထူးအခြေအနေများတွင် တစ်ဦးချင်းစီ၏ ရှင်သန်ရေးဆိုင်ရာ အကျိုးအတွက် ဖြစ်ပါသည်။
 
-For other purposes of Processing the ICRC shall rely on the ICRC’s legitimate
-interest.
+အခြားသော စီမံမှုရည်ရွယ်ချက်များအတွက် အိုင်စီအာရ်စီ သည်  ယင်း၏ တရားဝင်အကျိုးကို အခြေခံမည်ဖြစ်ပါသည်။
 
-### D. Recipients – with whom does the ICRC share your data?
+### ဃ။ လက်ခံရရှိသူများ –  အိုင်စီအာရ်စီသည် သင်၏အချက်အလက်များကို မည်သူထံ မျှဝေသနည်း။
 
-Internally, all Personal Data collected by the ICRC are processed only by
-designated ICRC staff members or agents, for one or more of the specific
-purposes listed above, and only on a strict need-to-know basis.
+အဖွဲ့အစည်းအတွင်းတွင် အိုင်စီအာရ်စီ မှယူဆောင်ထားသော ပုဂ္ဂိုလ်ရေးအချက်အလက်အားလုံးကို အထက်ဖော်ပြပါ တစ်ခု သို့မဟုတ် တစ်ခုထက်ပိုသော အထူးရည်ရွယ်ချက်များအတွက်သာနှင့်  တင်းကြပ်စွာသိရှိရန်လိုအပ်သည့်အခြေခံအရသာ သတ်မှတ်ထားသော အိုင်စီအာရ်စီ ဝန်ထမ်းများ သို့မဟုတ် ကိုယ်စားလှယ်များက စီမံပါသည်။
 
-Should the ICRC Share your information with service providers for any of the
-purposes listed above, The ICRC ensures as much as possible that these
-recipients have provided sufficient proof of compliance with the principles set
-out in the ICRC Rules on Personal Data Protection. This includes contractual
-obligations imposing a strict prohibition of using such data for purposes other
-than those specified above and ensuring an adequate level of protection of the
-Personal Data shared from us.
+အထက်ဖော်ပြပါ ရည်ရွယ်ချက်တစ်ခုခုအတွက်  အိုင်စီအာရ်စီက သင်၏အချက်အလက်များကို ဝန်ဆောင်မှုပေးသူများထံ မျှဝေရမည်ဆိုပါက၊ အိုင်စီအာရ်စီ သည်  ပုဂ္ဂိုလ်ရေးအချက်အလက် ကာကွယ်ရေးဆိုင်ရာ အိုင်စီအာရ်စီ စည်းမျဉ်းများတွင် ဖော်ပြထားသည့် အခြေခံမူများနှင့် ကိုက်ညီကြောင်း လုံလောက်သော သက်သေအထောက်အထားကို ထိုလက်ခံသူများက ပေးအပ်ရန် တတ်နိုင်သမျှ သေချာအောင်ဆောင်ရွက်ပါသည်။ ယင်းတွင် အထက်ဖော်ပြပါ ရည်ရွယ်ချက်များမှလွဲ၍ အခြားရည်ရွယ်ချက်များအတွက် ထိုအချက်အလက်များကို အသုံးပြုခြင်းအား တင်းကြပ်စွာ တားမြစ်ထားသည့် စာချုပ်ဆိုင်ရာတာဝန်များနှင့် ကျွန်ုပ်တို့ မျှဝေထားသော ပုဂ္ဂိုလ်ရေးအချက်အလက်များအတွက် လုံလောက်သော ကာကွယ်မှုအဆင့်တို့ သေချာစွာ ပါဝင်ပါသည်။
 
-The ICRC will never rent or sell your personal information.
+အိုင်စီအာရ်စီ သည် သင်၏ ပုဂ္ဂိုလ်ရေးအချက်အလက်များကို မည်သည့်အခါမျှ ငှားရမ်းခြင်း သို့မဟုတ် ရောင်းချခြင်း ပြုမည်မဟုတ်ပါ။
 
-### E. Contact information – how to reach us?
-The ICRC aims to always meet the highest standards to safeguard your privacy.
-Please contact us, if you require more detailed information on your rights
-regarding the Personal Data you have provided to us, the way we collect and use
-them, or if you wish to exercise any of your rights.
+### င။ အဆက်အသွယ်ဆိုင်ရာအချက်အလက် – ကျွန်ုပ်တို့ထံ မည်သို့ဆက်သွယ်ရမည်နည်း။
+အိုင်စီအာရ်စီ သည် သင်၏ ပုဂ္ဂိုလ်ရေးလွတ်လပ်ခွင့်ကို ကာကွယ်ရန် အမြင့်ဆုံးစံနှုန်းများနှင့် အမြဲကိုက်ညီစေရန် ရည်ရွယ်ပါသည်။ ကျွန်ုပ်တို့ထံ ပေးအပ်ထားသော ပုဂ္ဂိုလ်ရေးအချက်အလက်များနှင့်ပတ်သက်သည့် သင်၏အခွင့်အရေးများ၊ ကျွန်ုပ်တို့ ယူဆောင်အသုံးပြုပုံ တို့ကို ပိုမိုအသေးစိတ်သိရှိလိုပါက သို့မဟုတ် သင်၏အခွင့်အရေးတစ်ရပ်ရပ်ကို ကျင့်သုံးလိုပါက ကျွန်ုပ်တို့ထံ ဆက်သွယ်ပါ။
 
-If you have any questions on the use of TeleConnect, you can revert to the
-person with whom you were in touch with.
+TeleConnect အသုံးပြုမှုနှင့်ပတ်သက်၍ မေးခွန်းများရှိပါက သင်ဆက်သွယ်ခဲ့သူထံ ပြန်လည်ဆက်သွယ်နိုင်ပါသည်။
 
-If we fail to resolve your question or complaint, you can contact the ICRC Data
-Protection Office at dpo@icrc.org.
+သင်၏ မေးခွန်း သို့မဟုတ် တိုင်ကြားချက်ကို ကျွန်ုပ်တို့ ဖြေရှင်းမပေးနိုင်ပါက အိုင်စီအာရ်စီ ပုဂ္ဂိုလ်ရေးအချက်အလက် ကာကွယ်ရေးရုံးသို့ dpo@icrc.org တွင် ဆက်သွယ်နိုင်ပါသည်။
 
-Should a complaint not be resolved with the assistance of the Data Protection
-Office, the complaint may be escalated to the ICRC Data Protection Independent
-Control Commission, in accordance with the ICRC Rules on Personal Data
-Protection.
+ပုဂ္ဂိုလ်ရေးအချက်အလက် ကာကွယ်ရေးရုံး၏ အကူအညီဖြင့် တိုင်ကြားချက်ကို မဖြေရှင်းနိုင်ပါက ပုဂ္ဂိုလ်ရေးအချက်အလက် ကာကွယ်ရေးဆိုင်ရာ အိုင်စီအာရ်စီ စည်းမျဉ်းများနှင့်အညီ အိုင်စီအာရ်စီ ပုဂ္ဂိုလ်ရေးအချက်အလက် ကာကွယ်ရေးဆိုင်ရာ လွတ်လပ်သောထိန်းချုပ်ရေးကော်မရှင်သို့ တင်ပြနိုင်ပါသည်။
 
-Refer to country specific information for country specific contact information.
+နိုင်ငံအလိုက် အဆက်အသွယ်ဆိုင်ရာအချက်အလက်များ အတွက် နိုင်ငံအလိုက်အချက်အလက်များကို ကြည့်ရှုပါ။
 
-## 2. GENERAL CONDITIONS OF USE - TeleConnect
+## ၂။   အထွေထွေ အသုံးပြုမှုဆိုင်ရာ စည်းကမ်းများ - TeleConnect
 
-### GENERAL CONDITIONS OF USE
-Welcome to TeleConnect of the International Committee of the Red Cross (ICRC).
-The ICRC is an impartial, neutral and independent organization whose exclusively
-humanitarian mission is to protect the lives and dignity of victims of armed
-conflict and other situations of violence and to provide them with assistance.
-It also endeavors to prevent suffering by promoting and strengthening
-humanitarian law and universal humanitarian principles.
+### အထွေထွေ အသုံးပြုမှုဆိုင်ရာ စည်းကမ်းများ
+အပြည်ပြည်ဆိုင်ရာ ကြက်ခြေနီကော်မတီ (အိုင်စီအာရ်စီ) ၏ TeleConnect က ကြိုဆိုပါသည်။  အိုင်စီအာရ်စီသည် ခွဲခြားမှုမရှိဘဲ၊ ကြားနေပြီး လွတ်လပ်စွာရပ်တည်သည့် အဖွဲ့အစည်းတစ်ခုဖြစ်ကာ ယင်း၏တစ်ခုတည်းသော တာဝန်ဖြစ်သည့် လူသားချင်းစာနာမှုဆိုင်ရာ လုပ်ငန်းများ၏ ရည်ရွယ်ချက်မှာ  လက်နက်ကိုင်ပဋိပက္ခနှင့် အခြားအကြမ်းဖက်မှုအခြေအနေများကြောင့် ဒုက္ခရောက်သူများ၏ အသက်နှင့် ဂုဏ်သိက္ခာကို အကာအကွယ်ပေးရန်ဖြစ်ပြီး ယင်းတို့အား အထောက်အပံ့ပေးရန် ဖြစ်ပါသည်။ ထို့အပြင် အိုင်စီအာရ်စီသည် လူသားချင်းစာနာမှုဆိုင်ရာဥပဒေနှင့် တကမ္ဘာလုံးဆိုင်ရာ  လူသားချင်းစာနာမှုနှင့်သက်ဆိုင်သည့် မူများကို အများသိရှိလေးစားလိုက်နာလာစေရန် ဆောင်ရွက်ခြင်းနှင့် ခိုင်မာလာအောင်ဆောင်ရွက် ခြင်းဖြင့် ဆင်းရဲဒုက္ခများကို ကာကွယ်တားဆီးရန်လည်း ကြိုးပမ်းပါသည်။
 
-TeleConnect (“Tool”) is an open-source software that provides simple and secure
-teleconsultation and tele-expertise, in accordance with data protection
-requirements.
+TeleConnect ("ပစ္စည်းကိရိယာ") သည် အချက်အလက်ကာကွယ်ရေးလိုအပ်ချက်များနှင့်အညီ ရိုးရှင်းပြီး လုံခြုံသော အဝေးမှနေ၍တိုင်ပင်ဆွေးနွေးမှုနှင့် အဝေးမှနေ၍ အသိပညာ၊ အတတ်ပညာများကို ပံ့ပိုးပေးသည့် မည်သူမဆို ရယူနိုင်သောအရင်းမြစ်  ဆော့ဖ်ဝဲဖြစ်ပါသည်။
 
-### 1. Definitions
+### ၁။ အဓိပ္ပာယ်ဖွင့်ဆိုချက်များ
 
-**1.1** “Data Breach” means a breach of security leading to the accidental or
-unlawful destruction, loss or alteration of – or to the unauthorized disclosure
-of, or access to – Personal Data transmitted, stored or otherwise processed in
-the Tool.
+**၁.၁** "အချက်အလက်ပေါက်ကြားမှု" ဆိုသည်မှာ ပစ္စည်းကိရိယာအတွင်းသို့ ပေးပို့ခြင်း၊ သိမ်းဆည်းထားခြင်း သို့မဟုတ်  စီမံထားသော ပုဂ္ဂိုလ်ရေးအချက်အလက်များ မတော်တဆ သို့မဟုတ် တရားမဝင် ဖျက်ဆီးခံရခြင်း၊ ပျောက်ဆုံးခြင်း သို့မဟုတ် ပြောင်းလဲခံရခြင်း၊ သို့မဟုတ် ခွင့်ပြုချက်မရှိဘဲ ထုတ်ဖော်ခံရခြင်း သို့မဟုတ် ဝင်ရောက်ကြည့်ရှုခံရခြင်းတို့သို့ ဦးတည်စေသော လုံခြုံရေးချိုးဖောက်မှုကို ဆိုလိုပါသည်။
 
-**1.2** “Personal Data” means any information relating to an identified or
-identifiable natural person. This may include an identifier such as a name or
-audio-visual materials, an identification number, location data or an online
-identifier; it may also mean information that is linked specifically to the
-physical, physiological, genetic, mental, economic, cultural or social identity
-of an individual. Call records and any case related data that could be used to
-identify a person, such as caller profile, beneficiary status and location is
-all Personal Data.
+**၁.၂** "ပုဂ္ဂိုလ်ရေးအချက်အလက်" ဆိုသည်မှာ မည်သူဟုသိပြီး သို့မဟုတ် သိနိုင်သော လူပုဂ္ဂိုလ်တစ်ဦးနှင့် သက်ဆိုင်သည့် မည်သည့်အချက်အလက်မဆို ဖြစ်ပါသည်။ ယင်းတွင် အမည် သို့မဟုတ် ရုပ်သံဆိုင်ရာများ၊ မှတ်ပုံတင်နံပါတ်၊ တည်နေရာအချက်အလက် သို့မဟုတ် အွန်လိုင်းအမှတ်အသားတို့ကဲ့သို့သော သတ်မှတ်ချက်များ ပါဝင်နိုင်ပါသည်။ ထို့အပြင် တစ်ဦးချင်း၏ ရုပ်ပိုင်းဆိုင်ရာ၊ ဇီဝကမ္မဆိုင်ရာ၊ မျိုးရိုးဗီဇဆိုင်ရာ၊ စိတ်ပိုင်းဆိုင်ရာ၊ စီးပွားရေးဆိုင်ရာ၊ ယဉ်ကျေးမှုဆိုင်ရာ သို့မဟုတ် လူမှုရေးဆိုင်ရာ အထောက်အထားနှင့် အထူးတလည် ချိတ်ဆက်နေသော အချက်အလက်များကိုလည်း ဆိုလိုနိုင်ပါသည်။ ဖုန်းခေါ်ဆိုမှုမှတ်တမ်းများနှင့် ခေါ်ဆိုသူ၏ပုဂ္ဂိုလ်ရေးအချက်အလက်၊ အကျိုးခံစားခွင့်ရှိသူအဆင့်အတန်းနှင့် တည်နေရာကဲ့သို့ လူတစ်ဦးကို မည်သူဖြစ်ကြောင်းသတ်မှတ်ရန် အသုံးပြုနိုင်သည့် အမှုကိစ္စဆိုင်ရာအချက်အလက်များအားလုံးသည် ပုဂ္ဂိုလ်ရေးအချက်အလက်များ ဖြစ်ပါသည်။
 
-**1.3** “Staff in Charge” means the ICRC staff member in each ICRC field
-structure and headquarters Division who is entrusted by the ICRC with the
-management of a particular area of activity within the ICRC’s mandate. Contact
-details are available in the Privacy Notice available in section 1 of this
-document.
+**၁.၃** "တာဝန်ခံဝန်ထမ်း" ဆိုသည်မှာ အိုင်စီအာရ်စီကွင်းဆင်းလုပ်ငန်းဖွဲ့စည်းပုံတစ်ခုစီနှင့် ဌာနချုပ်ဌာနခွဲတစ်ခုစီတွင် အိုင်စီအာရ်စီ ၏ ပြဌာန်းလုပ်ပိုင်ခွင့်တာဝန်အတွင်းရှိ လုပ်ငန်းနယ်ပယ်တစ်ခု၏ စီမံခန့်ခွဲမှုကို အိုင်စီအာရ်စီ မှ တာဝန်အပ်နှင်းထားသော အိုင်စီအာရ်စီ ဝန်ထမ်းကို ဆိုလိုပါသည်။ ဆက်သွယ်ရန်အသေးစိတ်များကို ဤစာ၏ အပိုင်း ၁ တွင်ပါရှိသော ပုဂ္ဂိုလ်ရေးလွတ်လပ်ခွင့်ဆိုင်ရာ အသိပေးချက်တွင် ရရှိနိုင်ပါသည်။
 
-**1.4** “Users” means persons who are granted access to the Tool (e.g. ICRC
-protection staff, Clinicians, Medical Experts, Health Service Users, Caregivers,
-Translators)
+**၁.၄** "အသုံးပြုသူများ" ဆိုသည်မှာ ပစ္စည်းကိရိယာကို လက်လှမ်းမှီအသုံးပြုခွင့်ရှိသူများ (ဥပမာ - အိုင်စီအာစီ ကာကွယ်စောင့်ရှောက်ရေးဆိုင်ရာဝန်ထမ်းများ၊ ဆေးကုသသူများ၊ ဆေးဘက်ဆိုင်ရာကျွမ်းကျင်သူများ၊ ကျန်းမာရေးဝန်ဆောင်မှုကိုအသုံးပြုသူများ၊ လူနာပြုစုစောင့်ရှောက်သူများ၊ ဘာသာပြန်သူများ) ကို ဆိုလိုပါသည်။
 
-### 2. Accepting the General Conditions of Use
+### ၂။ အထွေထွေ အသုံးပြုမှုဆိုင်ရာ စည်းကမ်းများကို သဘောတူလက်ခံခြင်း
 
-**2.1** By accessing and using the Tool you agree to be bound by these general
-Conditions of Use (“Conditions”), which you declare you have read and
-understood.
+**၂.၁** ပစ္စည်းကိရိယာကို လက်လှမ်းမှီဝင်ရောက်အသုံးပြုခြင်းဖြင့် သင်သည် အသုံးပြုမှုဆိုင်ရာ ဤအထွေထွေ  စည်းကမ်းများ ("စည်းကမ်းများ") ကို ဖတ်ရှုနားလည်ပြီးသဘောတူကြောင်း ကြေညာ   ပါသည်။
 
-**2.2** The ICRC reserves the right to amend or change these Conditions at any
-time, at its sole discretion. It is up to you to consult them regularly on this
-solution to keep yourself informed of any changes.
+**၂.၂**  အိုင်စီအာရ်စီသည် ဤစည်းကမ်းချက်များကို ယင်း၏ဆုံးဖြတ်ချက်တစ်ခုတည်းဖြင့် အချိန်မရွေး ပြင်ဆင်ခြင်း သို့မဟုတ် ပြောင်းလဲခြင်းလုပ်ပိုင်ခွင့် ရှိပါသည်။ မည်သည့်အပြောင်းအလဲကိုမဆို သိနေရန် ဤဖြေရှင်းချက်ပေါ်တွင် ယင်းတို့ကို ပုံမှန်တိုင်ပင်ဆွေးနွေးရန်မှာ သင်၏တာဝန်ဖြစ်ပါသည်။
 
-**2.3** By using the Tool you accept that the mere fact of publishing revised
-Conditions on it is sufficient to make any alteration or revision effective with
-respect to you. Your continued use of the solution after any change shall mean
-acceptance of these alterations.
+**၂.၃**   ပြင်ဆင်ထားသော ပစ္စည်းကိရိယာဆိုင်ရာ စည်းကမ်းချက်များကို  ထုတ်ဝေလိုက်ရုံမျှဖြင့် ပြောင်းလဲမှုတစ်စုံတစ်ရာ သို့မဟုတ် ပြင်ဆင်မှုတစ်စုံတစ်ရာအား သင်နှင့်ပတ်သက်၍ အာဏာသက်ရောက်စေရန် လုံလောက်ကြောင်း ပစ္စည်းကိရိယာကို အသုံးပြုခြင်းအားဖြင့် သင်လက်ခံပါသည်။ အပြောင်းအလဲတစ်ခုခုပြီးနောက် ဖြေရှင်းချက်ကို သင်ဆက်လက်အသုံးပြုခြင်းသည် ထိုပြောင်းလဲမှုများကို လက်ခံခြင်းဟု ဆိုလိုပါသည်။
 
-**2.4** These Conditions apply to all usage of the Tool by Users.
+**၂.၄** ဤစည်းကမ်းချက်များသည်  ပစ္စည်းကိရိယာကို သုံးစွဲသူများ အသုံးပြုမှုအားလုံးအတွက် ဖြစ်ပါသည်။
 
-### 3. Accessing the Platform
+### ၃။ ပလက်ဖောင်းသို့ ဝင်ရောက်ခြင်း
 
-**3.1** The Tool is accessible upon request to ICRC/non-ICRC staff and experts
-as well as beneficiaries.
+**၃.၁** ပစ္စည်းကိရိယာကို အိုင်စီအာရ်စီ ဝန်ထမ်းများ/အိုင်စီအာရ်စီ မဟုတ်သော ဝန်ထမ်းများနှင့် ကျွမ်းကျင်သူများ အပါအဝင် အကျိုးခံစားခွင့်ရှိသူများ တောင်းဆိုမှုအရ အသုံးပြုနိုင်ပါသည်။
 
-**3.2** As a call requestor, expert or other user using the tool outside of an
-invitation link, in order to access the Tool, you need to request for access via
-the registration page, and wait for the support team to validate and grant
-access. Once this has been done, you can simply access the platform by clicking
-on the URL of the platform. The URL will be provided to you via email.
+**၃.၂** ပေးထားသည့်လင့်ခ်မပါဘဲ ပစ္စည်းကိရိယာကို အသုံးပြုရန် ခေါ်ဆိုမှုတောင်းဆိုသူ၊ ကျွမ်းကျင်သူ သို့မဟုတ် အခြားအသုံးပြုသူတစ်ဦးအနေဖြင့် ပစ္စည်းကိရိယာကို အသုံးပြုရန်အတွက် မှတ်ပုံတင်စာမျက်နှာမှတစ်ဆင့် ဝင်ရောက်ခွင့်တောင်းခံပြီး ပံ့ပိုးကူညီရေးအဖွဲ့မှ အတည်ပြု၍ ခွင့်ပြုချက်ပေးသည်အထိ စောင့်ဆိုင်းရပါမည်။ ထိုသို့ဆောင်ရွက်ပြီးပါက ပလက်ဖောင်း၏ URL ကို နှိပ်ရုံဖြင့် ပလက်ဖောင်းသို့ ဝင်ရောက်နိုင်ပါသည်။ URL ကို သင့်ထံ အီးမေးလ်မှတစ်ဆင့် ပေးပို့ပါမည်။
 
-**3.3** As a beneficiary of the service, in order to access the Tool, you need
-to click on the link sent via email or SMS. Once this has been done, you will be
-taken to the consultation.
+**၃.၃** ဝန်ဆောင်မှုခံစားခွင့်ရှိသူတစ်ဦးအနေဖြင့် ပစ္စည်းကိရိယာကို အသုံးပြုရန်အတွက် အီးမေးလ် သို့မဟုတ် SMS မှတစ်ဆင့် ပေးပို့သော လင့်ခ်ကို နှိပ်ရပါမည်။ ထိုသို့ဆောင်ရွက်ပြီးပါက တိုင်ပင်ဆွေးနွေးမှုသို့ ရောက်ရှိသွားပါလိမ့်မည်။
 
-### 4. Use of the Content
+### ၄။ အကြောင်းအရာအသုံးပြုမှု
 
-**4.1** You are authorized to use the Tool to provide or receive
-teleconsultation/ tele-expertise services.
+**၄.၁** အဝေးမှနေ၍တိုင်ပင်ဆွေးနွေးမှု/အဝေးမှနေ၍ အတတ်ပညာ၊ အသိပညာ ဝန်ဆောင်မှုများကို ပေးအပ်ရန် သို့မဟုတ် ရယူရန်အတွက် ပစ္စည်းကိရိယာကို အသုံးပြုခွင့်ရှိပါသည်။
 
-**4.2** You undertake to comply with any applicable regulations, rules, policies
-and procedures, including (where applicable) the ICRC Code of Conduct ([click to
-read](https://www.icrc.org/en/document/code-conduct-employees-icrc)), the
-Framework for the management of documents and information <sup>1</sup> and the
-ICRC Rules on Personal Data Protection for the ICRC ([click to
-read](https://www.icrc.org/en/publication/4261-icrc-rules-on-personal-data-protection)).
+**၄.၂**       (သက်ဆိုင်ပါက) အိုင်စီအာရ်စီ၏ ကျင့်ဝတ်စည်းကမ်း ([ဖတ်ရှုရန်နှိပ်ပါ](https://www.icrc.org/en/document/code-conduct-employees-icrc ))၊ စာရွက်စာတမ်းနှင့် အချက်အလက်စီမံခန့်ခွဲမှုဆိုင်ရာ အခြေခံမူ နှင့်  အိုင်စီအာရ်စီအတွက် ပုဂ္ဂိုလ်ရေးအချက်အလက် ကာကွယ်ရေးဆိုင်ရာ အိုင်စီအာရ်စီ စည်းမျဉ်းများ ([ဖတ်ရှုရန်နှိပ်ပါ](https://www.icrc.org/en/publication/4261-icrc-rules-on-personal-data-protection )) အပါအဝင် အသုံးပြုနိုင်သော မည်သည့် စည်းမျဥ်းစည်းကမ်းများ၊ မူဝါဒများနှင့် လုပ်ထုံးလုပ်နည်းကိုမဆို လိုက်နာရန် ကတိကဝတ်ပြုပါသည်။
 
-**4.3** You undertake not to infringe any legal provisions and not to use the
-Tool for any illegal purpose; not to introduce any false, incomplete or
-inaccurate information into it; not to introduce any virus, Trojan horse or any
-other program designed to cause damage, produce a harmful effect, or intercept
-or counteract any system, piece of data or personal information.
+**၄.၃** သင်သည် မည်သည့်ဥပဒေပြဋ္ဌာန်းချက်ကိုမျှ ချိုးဖောက်ခြင်းမပြုရန်နှင့် ပစ္စည်းကိရိယာကို မည်သည့်တရားမဝင်ရည်ရွယ်ချက်အတွက်မျှ အသုံးမပြုရန်၊ ယင်းအတွင်းသို့ မှားယွင်းသော၊ မပြည့်စုံသော သို့မဟုတ် တိကျမှုမရှိသော အချက်အလက်များ ထည့်သွင်းခြင်းမပြုရန်၊ ပျက်စီးဆုံးရှုံးမှုဖြစ်စေရန်၊ အန္တရာယ်ရှိသောသက်ရောက်မှုဖြစ်ပေါ်စေရန် သို့မဟုတ် မည်သည့်စနစ်၊ အချက်အလက် သို့မဟုတ် ပုဂ္ဂိုလ်ရေးအချက်အလက်ကိုမဆို ကြားဖြတ်ရယူရန် သို့မဟုတ် နှောင့်ယှက်ရန် ရည်ရွယ်ဖန်တီးထားသော ဗိုင်းရပ်စ်၊ Trojan horse သို့မဟုတ် အခြားပရိုဂရမ်များ ထည့်သွင်းခြင်းမပြုရန် ကတိကဝတ်ပြုပါသည်။
 
-**4.4** Your individual User account is protected by single sign-on
-authentication and managed in accordance with ICRC’s ICT security framework.
-Passwords must be kept confidential and may not be disclosed to unauthorized
-persons. You must not use someone else’s password to gain access to information.
-Action of this kind is considered a serious breach of confidentiality.
+**၄.၄** သင်၏ တစ်ဦးချင်းသုံးစွဲသူအကောင့်ကို single sign-on အထောက်အထားစိစစ်မှုဖြင့် ကာကွယ်ထားပြီး  အိုင်စီအာရ်စီ၏ ICT လုံခြုံရေးအခြေခံမူနှင့်အညီ စီမံခန့်ခွဲပါသည်။ စကားဝှက်များကို လျှို့ဝှက်ထားရမည်ဖြစ်ပြီး ခွင့်ပြုချက်မရှိသူများထံ ထုတ်ဖော်ခြင်းမပြုရပါ။ အချက်အလက်များကို ရယူရန် အခြားသူတစ်ဦး၏ စကားဝှက်ကို အသုံးမပြုရပါ။ ဤကဲ့သို့သောလုပ်ရပ်ကို အတွင်းရေးကိစ္စအား ပြင်းထန်စွာချိုးဖောက်ခြင်းအဖြစ် သတ်မှတ်ပါသည်။
 
-**4.5** The data held in the Tool may be covered by the ICRC’s privileges and
-immunities. The ICRC may waive such privileges and immunities in case of any
-suspected misuse of the Tool by its Users which could amount to criminal
-activity.
+**၄.၅** ပစ္စည်းကိရိယာအတွင်း သိမ်းဆည်းထားသော အချက်အလက်များသည်  အိုင်စီအာရ်စီက အထူးအခွင့်အရေးများနှင့် ကင်းလွတ်ခွင့်များပေးနိုင်ပါသည်။  စွဲ ပစ္စည်းကိရိယာကို သုံးစွဲသူများက အလွဲသုံးစားပြုခြင်းသည် ရာဇဝတ်မှုမြောက်နိုင်သည်ဟု သံသယရှိခဲ့ပါက  အိုင်စီအာရ်စီသည် ထိုအထူးအခွင့်အရေးများနှင့် ကင်းလွတ်ခွင့်များကို ရုတ်သိမ်းနိုင်ပါသည်။
 
 
 ---
 
-<sup>1</sup> *The Framework for the management of documents and information at
-the ICRC establishes the ICRC’s guiding principles on document and information
-management. It lays the foundations for effectively and consistently managing
-the information life cycle to meet the organization's legal and regulatory
-obligations and operational needs. The management of documents is founded on
-five basic principles: 1) All staff must record information, document it
-formally and share key knowledge acquired while carrying out their duties;
-2)Documents are produced and managed according to specific procedures at each
-stage of their life cycle; 3) Strategies for the provision of information ensure
-that all staff receive the data they need to fulfil their duties and to
-understand their working environment; 4) Keeping documents preserves the ICRC's
-institutional memory; 5) This framework is applicable to all the ICRC’s
-activities. All staff are involved, managers are responsible for implementing
-it.*
+ *၁* အိုင်စီအာရ်စီရှိ စာရွက်စာတမ်းနှင့် သတင်းအချက်အလက်စီမံခန့်ခွဲမှုဆိုင်ရာ အခြေခံမူသည် စာရွက်စာတမ်းနှင့် သတင်းအချက်အလက်စီမံခန့်ခွဲမှုကို   အိုင်စီအာရ်စီကလမ်းညွှန်သည့်မူများကို ချမှတ်ပေးပါသည်။ ယင်းသည် အဖွဲ့အစည်း၏ ဥပဒေဆိုင်ရာ တာဝန်များ၊ စည်းမျဉ်းဆိုင်ရာတာဝန်များနှင့် လုပ်ငန်းဆိုင်ရာ လိုအပ်ချက်များကို ဖြည့်ဆည်းရန် သတင်းအချက်အလက်သံသရာကို ထိထိရောက်ရောက်နှင့် တစ်သမတ်တည်း စီမံခန့်ခွဲရေးအတွက် အခြေခံအုတ်မြစ်ကို ချမှတ်ပေးပါသည်။ စာရွက်စာတမ်းစီမံခန့်ခွဲမှုသည် အခြေခံမူငါးရပ်အပေါ် အခြေခံပါသည် - ၁) ဝန်ထမ်းအားလုံးသည် သတင်းအချက်အလက်များကို မှတ်တမ်းတင်ရမည်၊ စာရွက်စာတမ်းတရားဝင်ပြုစုရမည်နှင့် ယင်းတို့၏ တာဝန်များကိုထမ်းဆောင်စဉ် ရရှိသော အဓိကကျသည့်အသိပညာများကို မျှဝေရမည်၊ ၂) စာရွက်စာတမ်းများကို ယင်းတို့၏ သံသရာစက်ဝန်းအဆင့်တစ်ခုစီတွင် လုပ်ထုံးလုပ်နည်းများနှင့်အညီ ပြုလုပ်၍ စီမံခန့်ခွဲသည်၊ ၃) သတင်းအချက်အလက်ပံ့ပိုးမှုဆိုင်ရာ မဟာဗျူဟာများသည် ဝန်ထမ်းအားလုံး ယင်းတို့၏တာဝန်များကို ထမ်းဆောင်ရန်နှင့် လုပ်ငန်းခွင်ဝန်းကျင်ကို နားလည်ရန် ယင်းတို့လိုအပ်သောသတင်းအချက်အလက်များ ရရှိစေရန် သေချာစေသည်၊ ၄) စာရွက်စာတမ်းများ ထိန်းသိမ်းထားရှိခြင်းသည်  အိုင်စီအာရ်စီ၏ အဖွဲ့အစည်းဆိုင်ရာ မှတ်ဉာဏ်ကို ထိန်းသိမ်းပေးသည်၊ ၅) ဤအခြေခံမူသည်  အိုင်စီအာရ်စီ၏ လုပ်ငန်းအားလုံးနှင့် သက်ဆိုင်သည်။ ဝန်ထမ်းအားလုံး ပါဝင်ပြီး မန်နေဂျာများသည် ယင်းကို အကောင်အထည်ဖော်ရန် တာဝန်ရှိသည်။*
 
 ---
 
-### 5. Intellectual property and rights of the individual
+### ၅။ အသိဥာဏ်ပစ္စည်းနှင့် တစ်ဦးချင်း၏အခွင့်အရေးများ
 
-**5.1** The Tool, as well as any other ICRC tool, system or resource you may
-receive access to, and their content (texts, images, sound, photos, film
-footage, music, data, logos, brands, software, etc.) are protected by
-intellectual property rights, in particular copyright and related rights, and by
-rights vested in individuals, in particular the right to control the use of
-one’s voice and one’s image. The Tool and its contents are the exclusive
-property of the ICRC and/or of the rights-holders.
+**၅.၁** ပစ္စည်းကိရိယာနှင့် သင်လက်လှမ်းမှီအသုံးပြုနိုင်သည့် အခြားမည်သည့် အိုင်စီအာရ်စီ ပစ္စည်းကိရိယာ၊ စနစ် သို့မဟုတ် အရင်းအမြစ်နှင့် ယင်းတို့၏ အကြောင်းအရာများ (စာသားများ၊ ရုပ်ပုံများ၊ အသံ၊ ဓာတ်ပုံများ၊ ရုပ်ရှင်မှတ်တမ်းများ၊ ဂီတ၊ အချက်အလက်များ၊ လိုဂိုများ၊ အမှတ်တံဆိပ်များ၊ ဆော့ဖ်ဝဲ စသည်) ကို အသိဥာဏ်ပစ္စည်းအခွင့်အရေးများ၊ အထူးသဖြင့် မူပိုင်ခွင့်နှင့် ဆက်စပ်အခွင့်အရေးများဖြင့်လည်းကောင်း၊ တစ်ဦးချင်းအား အပ်နှင်းထားသော အခွင့်အရေးများ၊ အထူးသဖြင့် တစ်စုံတစ်ဦး၏အသံနှင့် တစ်စုံတစ်ဦး၏ရုပ်ပုံအားအသုံးပြုမှုကို ထိန်းချုပ်ပိုင်ခွင့်ဖြင့်လည်းကောင်း ကာကွယ်ထားပါသည်။ ပစ္စည်းကိရိယာနှင့် ယင်း၏အကြောင်းအရာများသည် အိုင်စီအာရ်စီ သို့မဟုတ် အခွင့်အရေးပိုင်ဆိုင်သူများ၏ တစ်ခုတည်းသောပိုင်ဆိုင်မှု ဖြစ်ပါသည်။
 
-**5.2** The ICRC has made every reasonable effort to clarify copyright and find
-the rights-holders for certain documents about which it had doubts. If, while
-using the Tool, as well as any other ICRC tool, system or resource you may
-receive access to, you should become aware of a potential violation of the above
-rights or any other rights, please contact us immediately. The ICRC undertakes
-to remove provisionally, and as quickly as possible, any contentious record
-brought to its attention.
+**၅.၂** အိုင်စီအာရ်စီ က သံသယရှိသည့် အချို့သောစာရွက်စာတမ်းများနှင့်ပတ်သက်၍ မူပိုင်ခွင့်ကို ရှင်းလင်းရန်နှင့် အခွင့်အရေးပိုင်ဆိုင်သူများကို ရှာဖွေရန် ကျိုးကြောင်းဆီလျော်သော ကြိုးပမ်းမှုအားလုံး ပြုလုပ်ခဲ့ပါသည်။ ပစ္စည်ကိရိယာနှင့် သင်အသုံးပြုခွင့်ရရှိနိုင်သည့် အခြားမည်သည့်  အိုင်စီအာရ်စီ ပစ္စည်းကိရိယာ၊ စနစ် သို့မဟုတ် အရင်းအမြစ်ကို အသုံးပြုစဉ် အထက်ပါအခွင့်အရေးများ သို့မဟုတ် အခြားအခွင့်အရေးများကို ဖျက်စီးနိုင်ခြေရှိကြောင်း သင်သိရှိလာပါက ကျွန်ုပ်တို့ထံ ချက်ချင်းဆက်သွယ်ပါ။  အိုင်စီအာရ်စီသည် ယင်းအား အသိပေးထားသော အငြင်းပွားဖွယ်မည်သည့်မှတ်တမ်းကိုမဆို ဖြစ်နိုင်သမျှ လျင်မြန်စွာ ယာယီဖယ်ရှားရန် ကတိကဝတ်ပြုပါသည်။
 
-**5.3** Where one of the above rights, or any other right, is infringed – and in
-particular where rights-holders have put forward a valid objection to the use of
-the contentious record on the website – the ICRC undertakes to remove the
-contentious record from the website for good.
+**၅.၃** အထက်ဖော်ပြပါ အခွင့်အရေးတစ်ရပ် သို့မဟုတ် အခြားအခွင့်အရေးတစ်ရပ်ရပ်ကို ဖောက်ဖျက်ခံရသည့်အခါ အထူးသဖြင့် အခွင့်အရေးပိုင်ဆိုင်သူများက ဝဘ်ဆိုက်ပေါ်ရှိ အငြင်းပွားဖွယ်မှတ်တမ်းအသုံးပြုမှုအပေါ် တရားဝင်ကန့်ကွက်ချက် တင်သွင်းသည့်အခါ  အိုင်စီအာရ်စီ သည် ထိုအငြင်းပွားဖွယ်မှတ်တမ်းကို ဝဘ်ဆိုက်မှ အပြီးအပိုင် ဖယ်ရှားရန် ကတိကဝတ်ပြုပါသည်။
 
-### 6. Personal Data Protection
+### ၆။ ပုဂ္ဂိုလ်ရေးအချက်အလက် ကာကွယ်ရေး
 
-**6.1** You undertake to provide correct, accurate, up-to-date and complete
-information about yourself. If you provide details that are incorrect,
-inaccurate, outdated or incomplete or if the ICRC has reasonable grounds for
-thinking that you may have done so, or has reason to believe that you have not
-complied with some provision set out in these Conditions, it shall be entitled
-to deny you the use of the Tool (or any part of it), now or in the future,
-without having to justify its decision.
+**၆.၁** သင်သည် သင်ကိုယ်တိုင်နှင့်ပတ်သက်၍ မှန်ကန်၍ တိကျပြီး နောက်ဆုံးအခြေအနေနှင့်ကိုက်ညီကာ ပြည့်စုံသော သတင်းအချက်အလက်များ ပေးအပ်ရန် ကတိကဝတ်ပြုပါသည်။ မမှန်ကန်သော၊ တိကျမှုမရှိသော၊ ခေတ်နောက်ကျသော သို့မဟုတ် မပြည့်စုံသော အသေးစိတ်များ ပေးအပ်ပါက၊ သို့မဟုတ် သင်ထိုသို့ပြုလုပ်ခဲ့နိုင်သည်ဟု  အိုင်စီအာရ်စီတွင် ကျိုးကြောင်းဆီလျော်သော တွေးခေါ်မှုရှိပါက၊ သို့မဟုတ် ဤစည်းကမ်းချက်များတွင် ဖော်ပြထားသော ပြဋ္ဌာန်းချက်တစ်ခုခုကို သင်လိုက်နာခြင်းမရှိဟု ယုံကြည်ရန်အကြောင်းရှိပါက အိုင်စီအာရ်စီ သည် ယင်း၏ဆုံးဖြတ်ချက်ကို အကြောင်းပြရန်မလိုဘဲ ယခုဖြစ်စေ နောင်တွင်ဖြစ်စေ ပစ္စည်းကိရိယာ (သို့မဟုတ် ယင်း၏အစိတ်အပိုင်းတစ်စုံတစ်ရာ) ကို အသုံးပြုခြင်းအား ငြင်းပယ်ပိုင်ခွင့်ရှိပါသည်။
 
-**6.2** The confidentiality of Personal Data processed in the Tool must be
-maintained at all times. If you have any question or concerns about the
-protection of Personal Data within the Tool, you should address these to the
-Staff in Charge.
+**၆.၂** ပစ္စည်းကိရိယာ၌ စီမံသော ပုဂ္ဂိုလ်ရေးအချက်အလက်များအား အတွင်းရေးကိစ္စအဖြစ် သတ်မှတ်ခံရမှုကို အချိန်တိုင်း ထိန်းသိမ်းထားရပါမည်။ ပစ္စည်းကိရိယာအတွင်းရှိသော ပုဂ္ဂိုလ်ရေးအချက်အလက် ကာကွယ်ရေးနှင့်ပတ်သက်၍ မေးခွန်း သို့မဟုတ် စိုးရိမ်မှုများရှိပါက ယင်းတို့ကို တာဝန်ခံဝန်ထမ်းထံ တင်ပြသင့်ပါသည်။
 
-**6.3** You must take all reasonable steps to ensure the confidentiality of
-Personal Data and may process Personal Data only for the purposes described in
-the Privacy Notice.
+**၆.၃** သင်သည် ပုဂ္ဂိုလ်ရေးအချက်အလက်များ၏ အတွင်းရေးကိစ္စအဖြစ် သတ်မှတ်မှုကို သေချာစေရန် အဆင့်အားလုံးကို ကျိုးကြောင်းဆီလျော်စွာ ဆောင်ရွက်ရမည်ဖြစ်ပြီး ပုဂ္ဂိုလ်ရေးလွတ်လပ်ခွင့်ဆိုင်ရာ အသိပေးချက်တွင် ဖော်ပြထားသော ရည်ရွယ်ချက်များအတွက်သာ ပုဂ္ဂိုလ်ရေးအချက်အလက်များကို စီမံနိုင်ပါသည်။
 
-**6.4** You must update and/or correct the Personal Data that you input in the
-Tool without delay upon becoming aware that this information is no longer
-up-to-date. You acknowledge that once the consultation is closed any update or
-correction can no longer be done through the Tool and must be done by contacting
-the Hospital or protection service responsible for providing TeleConnect
-services.
+**၆.၄** ပစ္စည်းကိရိယာအတွင်း သင်ထားရှိသော ပုဂ္ဂိုလ်ရေးအချက်အလက်များသည် နောက်ဆုံးအခြေအနေနှင့် မကိုက်ညီတော့ကြောင်း သိရှိသည်နှင့် ချက်ချင်း ယင်းတို့ကို နောက်ဆုံးအခြေအနေနှင့် ကိုက်ညီအောင် နှင့်/သို့မဟုတ် မှန်အောင် ပြုလုပ်ရပါမည်။ တိုင်ပင်ဆွေးနွေးမှုပြီးစီးပါက နောက်ဆုံးအခြေအနေနှင့် ကိုက်ညီအောင် ပြုလုပ်မှုတစ်စုံတစ်ရာ သို့မဟုတ် အမှန်ပြုလုပ်မှု တစ်စုံတစ်ရာကို  ပစ္စည်းကိရိယာမှတစ်ဆင့် ဆောင်ရွက်၍မရတော့ဘဲ TeleConnect ဝန်ဆောင်မှုများ ပေးအပ်ရန် တာဝန်ရှိသော ဆေးရုံ သို့မဟုတ် ကာကွယ်စောင့်ရှောက်ရေးဌာနကို ဆက်သွယ်၍သာ ဆောင်ရွက်ရမည်ဖြစ်ကြောင်း သင်အသိအမှတ်ပြုပါသည်။
 
-**6.5** Should you become aware of a Data Breach, you must immediately report it
-to the Staff in Charge.
+**၆.၅** အချက်အလက်ပေါက်ကြားမှုတစ်ခုကို သင်သိရှိလာပါက တာဝန်ခံဝန်ထမ်းထံ ချက်ချင်းအစီရင်ခံရပါမည်။
 
-**6.6** As a user, you acknowledge that Individuals whose personal data is
-processed by the ICRC enjoy rights set out in the ICRC Rules on Personal Data
-Protection, and these include the right to (i)information about how their data
-is used and protected, including information about any transfers of their data,
-(ii) request access to Personal Data, (iii) rectify/correct Personal Data, (iv)
-request the deletion of Personal Data, (v) object to the processing of Personal
-Data and (vi) access remedies for complaints about the processing of their
-Personal Data. If you receive a request from a Data Subject to exercise these
-rights that you are unsure or unable to deal with, such requests must be
-escalated to Staff in Charge or relevant organisation.
+**၆.၆** သုံးစွဲသူတစ်ဦးအနေဖြင့် တစ်ဦးချင်း၏ပုဂ္ဂိုလ်ရေး အချက်အလက်များကို အိုင်စီအာရ်စီက   စီမံပြီးပုဂ္ဂိုလ်ရေးအချက်အလက် ကာကွယ်ရေးဆိုင်ရာ အိုင်စီအာရ်စီ စည်းမျဉ်းများတွင် ဖော်ပြထားသည့် အခွင့်အရေးများကို ခံစားခွင့်ရှိကြောင်း သင်အသိအမှတ်ပြုပါသည်။ ယင်းတို့တွင် (၁) အချက်အလက်လွှဲပြောင်းမှုများနှင့်ပတ်သက်သည့် သတင်းအချက်အလက်အပါအဝင်  ယင်းတို့၏ အချက်အလက်များကို မည်သို့အသုံးပြု၍ ကာကွယ်ထားသည်ဆိုသည့် သတင်းအချက်အလက် () ရယူပိုင်ခွင့်၊ (၂) ပုဂ္ဂိုလ်ရေးအချက်အလက်များကို လက်လှမ်းမှီကြည့်ရှုရေးတောင်းဆိုပိုင်ခွင့်၊ (၃) ပုဂ္ဂိုလ်ရေးအချက်အလက်များကို ပြင်ဆင်ပိုင်ခွင့်၊ (၄) ပုဂ္ဂိုလ်ရေးအချက်အလက်များ ဖျက်သိမ်းရန် တောင်းဆိုပိုင်ခွင့်၊ (၅) ပုဂ္ဂိုလ်ရေးကိုယ်တာအချက်အလက်များ စီမံမှုကို ကန့်ကွက်ပိုင်ခွင့်နှင့် (၆) ၎င်းတို့၏ပုဂ္ဂိုလ်ရေးအချက်အလက် စီမံမှုနှင့်ပတ်သက်သည့် တိုင်ကြားချက်များအတွက် ကုစားမှုများကို လက်လှမ်းမှီရယူပိုင်ခွင့်တို့ ပါဝင်ပါသည်။ ဤအခွင့်အရေးများကို ကျင့်သုံးရန် အချက်အလက်ပိုင်သူတစ်ဦးထံမှ တောင်းဆိုချက်ရရှိပြီး သင်မသေချာပါက သို့မဟုတ် ကိုင်တွယ်ဖြေရှင်းနိုင်ခြင်းမရှိပါက ထိုတောင်းဆိုချက်များကို တာဝန်ခံဝန်ထမ်း သို့မဟုတ် သက်ဆိုင်ရာအဖွဲ့အစည်းထံ တင်ပြရပါမည်။
 
-### 7. Changes to the Service
-The ICRC reserves the right to alter or shut down the platform (or any part of
-it) temporarily or for good, with or without notice. You agree that the ICRC
-shall not be answerable to you or to any third party for any alteration to or
-suspension or cessation of the platform or service. Any part of the content may
-be obsolete at any time without the ICRC’s being in any way bound to update this
-content.
+### ၇။ ဝန်ဆောင်မှုအပြောင်းအလဲများ
+အိုင်စီအာရ်စီ သည် ပလက်ဖောင်း (သို့မဟုတ် ယင်း၏အစိတ်အပိုင်းတစ်စုံတစ်ရာ) ကို ယာယီဖြစ်စေ အပြီးအပိုင်ဖြစ်စေ၊ အသိပေးချက်ဖြင့်ဖြစ်စေ အသိပေးချက်မပါဘဲဖြစ်စေ ပြောင်းလဲခြင်း သို့မဟုတ် ပိတ်သိမ်းခြင်းပြုပိုင်ခွင့်ရှိ ပါသည်။ ပလက်ဖောင်း သို့မဟုတ် ဝန်ဆောင်မှု၏ ပြောင်းလဲမှုတစ်စုံတစ်ရာ၊ ဆိုင်းငံ့မှု သို့မဟုတ် ရပ်စဲမှုအတွက်  အိုင်စီအာရ်စီသည် တာဝန်ခံရမည်မဟုတ်ကြောင်း သင့်အား သို့မဟုတ် တတိယအဖွဲ့အစည်းတစ်ခုခုအား ရှင်းလင်းရန် မလိုကြောင်းသင်သဘောတူပါသည်။ အကြောင်းအရာ၏ မည်သည့်အစိတ်အပိုင်းမဆို   နောက်ဆုံးအခြေအနေနှင့် ကိုက်ညီရေး လုပ်ဆောင်ရန် အိုင်စီအာရ်စီတွင် မည်သည့်တာဝန်မျှမရှိဘဲ အချိန်မရွေး ခေတ်နောက်ကျနိုင်ပါသည်။
 
-### 8. Termination
-You agree that the ICRC may, at its sole discretion, cancel your use of the
-platform and remove and/or delete any content from the platform for any reason
-whatsoever – in particular if the ICRC considers you have breached a provision
-of these Conditions – without prejudice to the other means available to the ICRC
-in the event of an infringement of these Conditions. The ICRC may also withdraw
-the platform or any part of it, at its sole discretion and at any time, with or
-without notice. You agree that your access to the platform may be suspended
-without notice, by virtue of any provision in these Conditions. You further
-agree that the ICRC shall not be answerable in any way to you or to a third
-party for any cancellation of your access to the platform.
+### ၈။ ရပ်စဲခြင်း
+အိုင်စီအာရ်စီ သည် ယင်း၏ဆုံးဖြတ်ချက်တစ်ခုတည်းဖြင့်   အထူးသဖြင့် ဤစည်းကမ်းချက်များ၏ ပြဋ္ဌာန်းချက်တစ်ရပ်ကို သင်ချိုးဖောက်ခဲ့သည်ဟု အိုင်စီအာရ်စီက ယူဆပါက  ဤစည်းကမ်းချက်များချိုးဖောက်မှုဖြစ်ပေါ်လာသည့်အခါ အိုင်စီအာရ်စီ တွင်ရရှိနိုင်သော အခြားနည်းလမ်းများကို မထိခိုက်စေဘဲ သင်၏ ပလက်ဖောင်းအသုံးပြုမှုကို ပယ်ဖျက်နိုင်ပြီး ပလက်ဖောင်းမှ မည်သည့်အကြောင်းပြချက်နှင့်မဆို ဖယ်ရှားခြင်းနှင့်/သို့မဟုတ် ဖျက်သိမ်းခြင်း ပြုလုပ်နိုင်ကြောင်း သင်သဘောတူပါသည်။ အိုင်စီအာရ်စီ သည် ပလက်ဖောင်း သို့မဟုတ် ယင်း၏အစိတ်အပိုင်းတစ်ခုခုကို ယင်း၏ဆုံးဖြတ်ချက်တစ်ခုတည်းဖြင့် အချိန်မရွေး၊ အသိပေး၍ဖြစ်စေ အသိမပေးဘဲဖြစ်စေ ရုပ်သိမ်းနိုင်ပါသည်။ ဤစည်းကမ်းချက်များရှိ ပြဋ္ဌာန်းချက်တစ်ရပ်ရပ်အရ သင်၏ ပလက်ဖောင်းအား လက်လှမ်းမှီအသုံးပြုခြင်းကို အသိပေးချက်မရှိဘဲ ဆိုင်းငံ့နိုင်ကြောင်း သင်သဘောတူပါသည်။ ထို့အပြင် သင်၏ပလက်ဖောင်းအားလက်လှမ်းမှီအသုံးပြုခြင်း ပယ်ဖျက်မှုအတွက် အိုင်စီအာရ်စီ သည် သင့်အား သို့မဟုတ် တတိယအဖွဲ့အစည်းအား မည်သို့မျှ တာဝန်ခံရမည်မဟုတ်ကြောင်း သင်ထပ်မံသဘောတူပါသည်။
 
-### 9. Exclusionary clause
+### ၉။ တာဝန်ကင်းလွတ်ခွင့်ဆိုင်ရာ ပြဋ္ဌာန်းချက်
 
-**9.1** You access and use the Tool solely at your own risk. The Tool and its
-content are provided as is and as available. The ICRC gives no guarantee,
-whether express or implied, as to the quality or availability of the Tool or its
-content or their fitness for a particular purpose, and you agree not to rely on
-any such guarantee.
+**၉.၁** သင်သည်  အန္တရာယ်အားသင်၏ကိုယ်ပိုင်သဘောဖြင့်သာ ပစ္စည်းကိရိယာကိုလက်လှမ်းမှီဝင်ရောက်အသုံးပြုပါသည်။ ပစ္စည်းကိရိယာနှင့် ယင်း၏အကြောင်းအရာများကို ရှိသည့်အတိုင်း နှင့် ရရှိနိုင်သည့်အတိုင်း  ပေးအပ်ပါသည်။  အိုင်စီအာရ်စီသည် ပစ္စည်းကိရိယာ သော်လည်းကောင်း ယင်းအကြောင်းအရာများ၏ အရည်အသွေး သော်လည်းကောင်း ရရှိနိုင်မှု၊ သော်လည်းကောင်း သီးခြားရည်ရွယ်ချက်တစ်ခုအတွက် သင့်လျော်မှုနှင့်ပတ်သက်၍ ရှင်းလင်းစွာဖြစ်စေ သွယ်ဝိုက်၍ဖြစ်စေ မည်သည့်အာမခံချက်မျှ မပေးပါ။ ထိုသို့သောအာမခံချက်ကို အားကိုးအားထားမပြုရန် သင်သဘောတူပါသည်။
 
-**9.2** The ICRC makes no representation or warranty that (i) the Tool or its
-content will meet your needs,(ii) the Tool service will be uninterrupted,
-punctual, secure or error-free, (iii) the results obtained by using the Tool
-will be accurate or reliable, or that (iv) any error of content will be
-corrected.
+**၉.၂**  အိုင်စီအာရ်စီသည် မည်သည့်ကိုယ်စားပြုမှု သို့မဟုတ် အာမခံချက်မျှ မပေးပါ (၁) ပစ္စည်းကိရိယာ သို့မဟုတ် ၎င်း၏အကြောင်းအရာများသည် သင်၏လိုအပ်ချက်များနှင့် ကိုက်ညီမည်၊ (၂) ပစ္စည်းကိရိယာဝန်ဆောင်မှုသည် အနှောင့်အယှက်မရှိ၊ အချိန်မှန်၊ လုံခြုံ သို့မဟုတ် အမှားကင်းမည်၊ (၃) ပစ္စည်းကိရိယာအသုံးပြုခြင်းဖြင့် ရရှိသောရလဒ်များသည် တိကျမည် သို့မဟုတ် ယုံကြည်စိတ်ချရမည်၊ သို့မဟုတ် (၄) အကြောင်းအရာဆိုင်ရာ အမှားတစ်ခုခုကို ပြင်ဆင်ပေးမည် ဟူ၍ ဖြစ်သည် ။
 
-**9.3** You download any document or record or obtain it in some other way
-through the use of the Tool at your own risk, and you alone will be liable for
-any damage caused to your computer system or for any loss of data resulting from
-the downloading of such documents or records.
+**၉.၃** သင်သည် ပစ္စည်းကိရိယာအသုံးပြုမှုမှတစ်ဆင့် စာရွက်စာတမ်းတစ်စုံတစ်ရာ သို့မဟုတ် မှတ်တမ်းတစ်စုံတစ်ရာကိုမဆို ဒေါင်းလုဒ်လုပ်ခြင်း(အင်တာနက်မှ ဖိုင်ရယူခြင်း) သို့မဟုတ် အခြားနည်းလမ်းဖြင့် ရယူခြင်းကို သင်၏ကိုယ်ပိုင်သဘောဖြင့် ဆောင်ရွက်ပါသည်။ ထိုစာရွက်စာတမ်းများ သို့မဟုတ် မှတ်တမ်းများ ဒေါင်းလုဒ်လုပ်ခြင်း(အင်တာနက်မှ ဖိုင်ရယူခြင်း)ကြောင့် ဖြစ်ပေါ်လာသော သင်၏ကွန်ပျူတာစနစ်ပျက်စီးမှု သို့မဟုတ် အချက်အလက်ဆုံးရှုံးမှုအတွက် သင်တစ်ဦးတည်းသာ တာဝန်ရှိပါမည်။
 
-**9.4** No information, whether oral or written, obtained by you from the ICRC
-either by means of or from the Tool shall create a guarantee or any other
-obligation not expressly indicated in these Conditions, and the ICRC disclaims
-any liability for any trust placed in such information by any visitor to the
-website, or by any person who may be informed of any part of its content.
+**၉.၄** ပစ္စည်းကိရိယာမှတစ်ဆင့်ဖြစ်စေ ပစ္စည်းကိရိယာမှဖြစ်စေ  အိုင်စီအာရ်စီထံမှ သင်ရရှိသော နှုတ်ဖြင့်ဖြစ်စေ စာဖြင့်ဖြစ်စေ မည်သည့်အချက်အလက်မျှ ဤစည်းကမ်းချက်များတွင် ရှင်းလင်းစွာဖော်ပြထားခြင်းမရှိသော အာမခံချက် သို့မဟုတ် အခြားတာဝန်တစ်စုံတစ်ရာကို ဖန်တီးပေးမည်မဟုတ်ပါ။  အိုင်စီအာရ်စီသည် ဝဘ်ဆိုက်(အင်တာနက်စာမျက်နှာ)သို့ လာရောက်သူတစ်ဦးဦးက သို့မဟုတ် ယင်း၏အကြောင်းအရာအစိတ်အပိုင်းတစ်ခုခုကို အသိပေးခံရသူတစ်ဦးဦးက ထိုအချက်အလက်များအပေါ် ထားရှိသော ယုံကြည်မှုအတွက် တာဝန်တစ်စုံတစ်ရာကို ငြင်းဆိုပါသည်။
 
-### 10. Indemnity
-You undertake to indemnify the ICRC, its partners and its employees, from and
-against any and all liabilities, losses, damages, claims, penalties, fines, fees
-and expenditures, including but not limited to reasonable lawyers' fees, arising
-out of: (i) your use of or access to the Tool, including but not limited to any
-content thereof, or your connection to the Tool, or (ii) your failure to comply
-with any of the provisions set out in these Conditions.
+### ၁၀။ လျော်ကြေးပေးခြင်း
+သင်သည် အိုင်စီအာရ်စီ၊ ယင်း၏မိတ်ဖက်များနှင့် ယင်း၏ဝန်ထမ်းများအား၊ ပေးရန်ရှိမှုများအားလုံး၊ ဆုံးရှုံးမှုများ၊ ပျက်စီးမှုများ၊ တောင်းဆိုမှုများ၊ ပြစ်ဒဏ်များ၊ ဒဏ်ကြေးများ၊ အခကြေးငွေများနှင့် ကုန်ကျစရိတ်များ ကျိုးကြောင်းဆီလျော်သော ရှေ့နေခများ အပါအဝင်၊ သို့သော် ယင်းတို့ဖြင့် ကန့်သတ်မထားဘဲ ပေါ်ပေါက်လာသလို လျော်ကြေးပေးရန် ကတိကဝတ်ပြုပါသည်။ (၁) ပစ္စည်းကိရိယာအသုံးပြုမှု သို့မဟုတ် လက်လှမ်းမှီဝင်ရောက်မှု အကြောင်းအရာတစ်ခုခု အပါအဝင်၊ သို့သော်  ကန့်သတ်မထားဘဲ၊ သို့မဟုတ် ပစ္စည်းကိရိယာနှင့် သင်၏ချိတ်ဆက်မှု၊ သို့မဟုတ် (၂) ဤစည်းကမ်းချက်များတွင် ဖော်ပြထားသည့် ပြဋ္ဌာန်းချက်တစ်ရပ်ရပ်ကို လိုက်နာရန် ပျက်ကွက်မှု၊       
 
-### 11. Limitation of Liability
-Subject to the mandatory legal provisions applicable, you acknowledge and
-expressly agree that the ICRC is not liable for any direct, consequential,
-incidental, particular or resulting damage, nor any punitive damages, including,
-inter alia, damages for loss of earnings, loss of customers, loss of enjoyment,
-loss of data or other intangible benefits (even where the ICRC has been notified
-of the possibility of damage) resulting from: (i) the use of the platform or the
-impossibility of using it, (ii)unauthorized access to your data transmissions or
-the alteration thereof, (iv) statements by or the behavior of any third party on
-the platform, (v) results given on the platform or any platforms linked to it or
-any documents published on it, (vi) any infringement of the rights of third
-parties, in particular copyright, related rights or the rights of the
-individual, whether directly or indirectly linked to the use of the portal or
-its content, or (viii) any other issue relating to the platform.
+### ၁၁။ တာဝန်ရှိမှုအား ကန့်သတ်ချက်
+သက်ဆိုင်သော မဖြစ်မနေလိုက်နာရမည့် ဥပဒေပြဋ္ဌာန်းချက်များအရ သင်သည် (၁) ပလက်ဖောင်းအားအသုံးပြုမှု သို့မဟုတ် ယင်းကိုအသုံးပြု၍မရခြင်း၊ (၂) သင်၏အချက်အလက်ပေးပို့မှုများသို့ ခွင့်ပြုချက်မရှိဘဲ ဝင်ရောက်ခြင်း သို့မဟုတ် ယင်းတို့ကို ပြောင်းလဲခြင်း၊ (၄) ပလက်ဖောင်းပေါ်ရှိ တတိယအဖွဲ့အစည်းတစ်ခုခု၏ ထုတ်ပြန်ချက်များ သို့မဟုတ် အပြုအမူ၊ (၅) ပလက်ဖောင်းပေါ်တွင် သို့မဟုတ် ယင်းနှင့်ချိတ်ဆက်ထားသော ပလက်ဖောင်းဆိုင်ရာ  ပေးအပ်ထားသောရလဒ်များ သို့မဟုတ် ယင်းပေါ်တွင်ထုတ်ဝေထားသော စာရွက်စာတမ်းများ၊ (၆) တတိယအဖွဲ့အစည်းများ၏ အခွင့်အရေးများ၊ အထူးသဖြင့် မူပိုင်ခွင့်၊ ဆက်စပ်အခွင့်အရေးများ သို့မဟုတ် တစ်ဦးချင်း၏အခွင့်အရေးများကို ချိုးဖောက်မှုတစ်ရပ်ရပ် ပေါ်တယ်လ် (အွန်လိုင်းဝန်ဆောင်မှုစနစ်) သို့မဟုတ် ယင်း၏အကြောင်းအရာ အသုံးပြုမှုနှင့် တိုက်ရိုက်ဖြစ်စေ သွယ်ဝိုက်၍ဖြစ်စေ ဆက်စပ်နေသည်၊ သို့မဟုတ် (၈) ပလက်ဖောင်းနှင့်ဆက်စပ်သော အခြားကိစ္စရပ်တစ်ခုခုမှ ပေါ်ပေါက်လာသော မည်သည့် တိုက်ရိုက်၊ အကျိုးဆက်၊ မတော်တဆ၊ သီးခြား သို့မဟုတ် ရလဒ်အနေဖြင့်ဖြစ်ပေါ်သော ပျက်စီးဆုံးရှုံးမှုအတွက်မဆို၊ သို့မဟုတ် ဝင်ငွေဆုံးရှုံးမှု၊ ဖောက်သည်ဆုံးရှုံးမှု၊ ခံစားခွင့်ဆုံးရှုံးမှု၊ အချက်အလက်ဆုံးရှုံးမှု သို့မဟုတ် အခြားမမြင်နိုင်သောအကျိုးခံစားခွင့် ဆုံးရှုံးမှုအတွက် ပျက်စီးဆုံးရှုံးမှုများ အပါအဝင် မည်သည့်ပြစ်ဒဏ်ဆိုင်ရာ လျော်ကြေးများအတွက်မဆို (ပျက်စီးဆုံးရှုံးနိုင်ခြေရှိကြောင်း အိုင်စီအာရ်စီ အား အသိပေးထားသည့်တိုင်)  အိုင်စီအာရ်စီတွင် တာဝန်မရှိကြောင်း အသိအမှတ်ပြု၍ ရှင်းလင်းစွာ သဘောတူပါသည်။
 
-### 12. General information
+### ၁၂။ အထွေထွေသတင်းအချက်အလက်
 
-**12.1** These Conditions constitute the entire agreement between you and the
-ICRC concerning the use of the Tool; they cancel and replace all previous
-agreements, arrangements and undertakings of any kind between you and the ICRC
-on this subject, whether oral or written. These Conditions do not cancel any
-contractual relationship, including NDA, between you and the Hospital or you and
-the ICRC, that do not concern the use of the Tool. You may be subject to
-additional conditions of use which may apply when you use the services of
-affiliated companies, third-party content or third-party software.
+**၁၂.၁** ဤစည်းကမ်းချက်များသည် ကိရိယာအသုံးပြုမှုနှင့်ပတ်သက်၍ သင်နှင့်  အိုင်စီအာရ်စီအကြား သဘောတူညီချက်အပြည့်အစုံ ဖြစ်ပါသည်။ ၎င်းတို့သည် ဤအကြောင်းအရာနှင့်ပတ်သက်၍ သင်နှင့် အိုင်စီအာရ်စီ အကြား ယခင်က ရှိခဲ့သော နှုတ်ဖြင့်ဖြစ်စေ စာဖြင့်ဖြစ်စေ သဘောတူညီချက်များ၊ စီစဉ်ဆောင်ရွက်ချက်များနှင့် ကတိကဝတ်များအားလုံးကို ပယ်ဖျက်၍ အစားထိုးပါသည်။ ဤစည်းကမ်းချက်များသည် ပစ္စည်းကိရိယာအသုံးပြုမှုနှင့် မသက်ဆိုင်သော သင်နှင့် ဆေးရုံအကြား သို့မဟုတ် သင်နှင့် အိုင်စီအာရ်စီ အကြား NDA အပါအဝင် မည်သည့်စာချုပ်ဆိုင်ရာဆက်ဆံရေးကိုမျှ ပယ်ဖျက်ခြင်းမပြုပါ။ ဆက်စပ်ကုမ္ပဏီများ၏ ဝန်ဆောင်မှုများ၊ တတိယအဖွဲ့အစည်း၏အကြောင်းအရာများ သို့မဟုတ် တတိယအဖွဲ့အစည်း၏ဆော့ဖ်ဝဲကို အသုံးပြုသည့်အခါ သက်ဆိုင်နိုင်သည့် ထပ်ဆောင်းအသုံးပြုမှုစည်းကမ်းချက်များအောက်တွင် သင်ရှိနေနိုင်ပါသည်။
 
-**12.2** The fact that the ICRC does not implement or enforce any right or
-provision set out in these Conditions shall not constitute a waiver of that
-right or provision.
+**၁၂.၂** အိုင်စီအာရ်စီ သည် ဤစည်းကမ်းချက်များတွင် ဖော်ပြထားသော အခွင့်အရေး သို့မဟုတ် ပြဋ္ဌာန်းချက်တစ်ရပ်ရပ်ကို အကောင်အထည်မဖော်ခြင်း သို့မဟုတ် အာဏာမသက်ရောက်စေခြင်းသည် ထိုအခွင့်အရေး သို့မဟုတ် ပြဋ္ဌာန်းချက်ကို စွန့်လွှတ်ခြင်း မမြောက်စေရပါ။
 
-**12.3** If a provision in these Conditions is ruled to be null and void, the
-parties nevertheless agree that their intentions, as apparent from the
-provision, shall be carried out to the fullest extent possible and that the
-other provisions in the Conditions shall remain in full force and effect. The
-titles of the sections in these Conditions are designed merely to make them
-easier to consult and have no legal or contractual effect.
+**၁၂.၃** ဤစည်းကမ်းချက်များရှိ ပြဋ္ဌာန်းချက်တစ်ခုကို ပျက်ပြယ်သည်ဟု ဆုံးဖြတ်ခံရပါက ထိုပြဋ္ဌာန်းချက်မှ ပေါ်လွင်သည့် နှစ်ဖက်၏ရည်ရွယ်ချက်များကို ဖြစ်နိုင်သမျှ အပြည့်အဝ အကောင်အထည်ဖော်ရမည်ဖြစ်ပြီး စည်းကမ်းချက်များရှိ အခြားပြဋ္ဌာန်းချက်များသည် အပြည့်အဝ အာဏာသက်ရောက်လျက် ရှိနေမည်ဖြစ်ကြောင်း နှစ်ဖက်စလုံး သဘောတူပါသည်။ ဤစည်းကမ်းချက်များရှိ အပိုင်းခေါင်းစဉ်များသည် ကြည့်ရှုရလွယ်ကူစေရန်သာ ရည်ရွယ်ဖန်တီးထားခြင်းဖြစ်ပြီး ဥပဒေဆိုင်ရာ သို့မဟုတ် စာချုပ်ဆိုင်ရာ သက်ရောက်မှု မရှိပါ။
 
-**12.4** You may not assign or transfer any of your rights or obligations or
-sub-contract the fulfilment of any of your obligations under these Conditions.
-The ICRC may assign or transfer any right or obligation, or sub-contract any of
-its obligations under these Conditions, to any third party, at any time, without
-your consent (this consent being given by these provisions).
+**၁၂.၄** သင်သည် ဤစည်းကမ်းများ အရ သင်၏အခွင့်အရေးများ သို့မဟုတ် တာဝန်ဝတ္တရားများတစ်စုံတစ်ရာကို လွှဲအပ်ခြင်း သို့မဟုတ် လွှဲပြောင်းခြင်းမပြုရဘဲ သင်၏တာဝန်တစ်စုံတစ်ရာကို ဖြည့်ဆည်းရန် လုပ်ငန်းခွဲအပ်နှံ၍ ဆောင်ရွက်စေခြင်း မပြုရပါ။ အိုင်စီအာရ်စီ သည် ဤစည်းကမ်းချက်များအရ မည်သည့်အခွင့်အရေး သို့မဟုတ် တာဝန်ကိုမဆို သင်၏သဘောတူညီချက်မလိုဘဲ (ဤပြဋ္ဌာန်းချက်များက ထိုသဘောတူညီချက်ကို ပေးအပ်လိုက်သည်) မည်သည့်တတိယအဖွဲ့အစည်းသို့မဆို အချိန်မရွေး လွှဲအပ်ခြင်း သို့မဟုတ် လွှဲပြောင်းခြင်းပြုနိုင်ပြီး ယင်း၏တာဝန်တစ်ရပ်ရပ်ကို လုပ်ငန်းခွဲအပ်နှံ၍ ဆောင်ရွက်စေနိုင်ပါသည်။
 
-### 13. Jurisdiction and Applicable law
+### ၁၃။ တရားစီရင်ပိုင်ခွင့်နှင့် သက်ဆိုင်သောဥပဒေ
 
-Swiss law is applicable to these Conditions.
+ဤစည်းကမ်းချက်များသည် ဆွစ်ဇာလန်ဥပဒေ သက်ဆိုင်ပါသည်။
 
-Any dispute, controversy, or claim arising out of, or in relation to these
-Conditions, including the validity, invalidity, breach, or termination thereof,
-shall be resolved by arbitration in accordance with the Swiss Rules of
-International Arbitration of the Swiss Chambers’ Arbitration Institution in
-force on the date on which the Notice of Arbitration is submitted in accordance
-with these rules. The seat of the arbitration shall be Geneva. The language of
-the arbitration shall be French.
+ဤစည်းကမ်းချက်များမှ ပေါ်ပေါက်လာသော သို့မဟုတ် ယင်းတို့နှင့် ဆက်စပ်သော မည်သည့် အငြင်းပွားမှု၊ ကွဲလွဲမှု သို့မဟုတ် တောင်းဆိုမှုမဆို (ယင်းတို့၏ တရားဝင်မှု၊ ပျက်ပြယ်မှု၊ ချိုးဖောက်မှု သို့မဟုတ် ရပ်စဲမှု အပါအဝင်) ယင်းစည်းမျဉ်းများနှင့်အညီ ခုံရုံးအသိပေးစာ တင်သွင်းသည့်နေ့တွင် အာဏာသက်ရောက်နေသော ဆွစ်အခန်းကဏ္ဍဆိုင်ရာ သမာဓိခုံရုံးအဖွဲ့အစည်း၏ အပြည်ပြည်ဆိုင်ရာ ခုံရုံးစည်းမျဉ်းများနှင့်အညီ အနုညာတခုံဖြင့် ဖြေရှင်းရမည်ဖြစ်ပါသည်။ ခုံရုံးထိုင်ရာနေရာမှာ ဂျီနီဗာဖြစ်ပါသည်။  ခုံသမာဓိဖြင့် စီရင်ဆုံးဖြတ်မည့် ဘာသာစကားမှာ ပြင်သစ်ဘာသာ ဖြစ်ပါသည်။
 
-## ICRC GENERAL CONDITIONS OF USE - TeleConnect SUMMARY SHEET
+## အိုင်စီအာရ်စီ အထွေထွေ သုံးစွဲမှုဆိုင်ရာ စည်းကမ်းများ - TeleConnect အကျဉ်းချုပ်စာရွက်
 
-* Consultation requestors and health experts can use the tool by asking for
-  access.
+* တိုင်ပင်ဆွေးနွေးမှုကို တောင်းဆိုသူများနှင့် ကျန်းမာရေးကျွမ်းကျင်သူများသည် ဝင်ရောက်ခွင့်တောင်းခံခြင်းဖြင့် ပစ္စည်းကိရိယာကို အသုံးပြုနိုင်ပါသည်။
 
-* Beneficiaries can use the tool if they receive an invitation via email, SMS,
-  or WhatsApp.
+* အကျိုးခံစားခွင့်ရှိသူများသည် အီးမေးလ်၊ SMS သို့မဟုတ် WhatsApp မှတစ်ဆင့် ဖိတ်ကြားချက်ရရှိပါက ပစ္စည်းကိရိယာကို အသုံးပြုနိုင်ပါသည်။
 
-* Everyone must use the tool properly and follow the ICRC's rules when using the
-  tool (see below point 4).
+* လူတိုင်းသည် ပစ္စည်းကိရိယာကို စနစ်ကျစွာအသုံးပြုရမည်ဖြစ်ပြီး ပစ္စည်းကိရိယာအသုံးပြုစဉ် အိုင်စီအာရ်စီ ၏ စည်းမျဉ်းများကို လိုက်နာရပါမည် (အောက်ပါ အချက် ၄ ကို ရှုပါ)။
 
-* Users must keep their passwords private and keep any information in the tool
-  confidential. They should also keep their user information updated.
+* သုံးစွဲသူများသည် ယင်းတို့၏စကားဝှက်များကို လျှို့ဝှက်ထားရမည်ဖြစ်ပြီး ပစ္စည်းကိရိယာအတွင်းရှိ မည်သည့်အချက်အလက်မဆိုကို လျှို့ဝှက်ထားရပါမည်။ ယင်းတို့၏ အသုံးပြုသူအချက်အလက်များကိုလည်း နောက်ဆုံးအခြေအနေနှင့်ကိုက်ညီအောင်  လုပ်ဆောင်ထားသင့်ပါသည်။
 
-* Beneficiaries can ask about the information in the tool, how it's used and
-  protected, and request access, changes, or deletion of their data.
+* အကျိုးခံစားခွင့်ရှိသူများသည် ပစ္စည်းကိရိယာ၌ သတင်းအချက်အလက်များ၊ ယင်းတို့ကို မည်သို့အသုံးပြု၍ ကာကွယ်ထားသည်ကို မေးမြန်းနိုင်ပြီး ယင်းတို့၏အချက်အလက်များကို ကြည့်ရှုခွင့်၊ ပြင်ဆင်ခွင့် သို့မဟုတ် ဖျက်သိမ်းခွင့် တောင်းဆိုနိုင်ပါသည်။
 
-* If a requestor is contacted by a beneficiary about their data or has concerns
-  about the tool's use or confidentiality, they should contact the tool's
-  support staff.
+* တောင်းဆိုသူတစ်ဦးအား အကျိုးခံစားခွင့်ရှိသူတစ်ဦးက ယင်း၏အချက်အလက်များနှင့်ပတ်သက်၍ ဆက်သွယ်လာပါက သို့မဟုတ် ပစ္စည်းကိရိယာအသုံးပြုမှု သို့မဟုတ် အတွင်းရေးကိစ္စအဖြစ်ထားရှိမှုနှင့်ပတ်သက်၍ စိုးရိမ်မှုများရှိပါက ပစ္စည်းကိရိယာ၏ ပံ့ပိုးကူညီသည့်ဝန်ထမ်းများထံ ဆက်သွယ်သင့်ပါသည်။
 
-* ICRC can suspend, change, or transfer the tool's responsibility to another
-  organization, or revoke access at any time.
+*  အိုင်စီအာရ်စီသည် ပစ္စည်းကိရိယာ၏တာဝန်ယူမှုကို ဆိုင်းငံ့ခြင်း၊ ပြောင်းလဲခြင်း သို့မဟုတ် အခြားအဖွဲ့အစည်းသို့ လွှဲပြောင်းခြင်းပြုနိုင်ပြီး ဝင်ရောက်ခွင့်ကို အချိန်မရွေး ရုပ်သိမ်းနိုင်ပါသည်။
 
-* The ICRC isn't responsible for any damages or problems from using the tool,
-  and users agree to cover any costs if this happens.
+* ပစ္စည်းကိရိယာအသုံးပြုမှုက ဖြစ်ပေါ်လာသော မည်သည့်ပျက်စီးဆုံးရှုံးမှု သို့မဟုတ် ပြဿနာအတွက်မဆို အိုင်စီအာရ်စီ တွင် တာဝန်မရှိပါ။ ထိုသို့ဖြစ်ပေါ်ပါက အသုံးပြုသူများက ကုန်ကျစရိတ်များကို ကျခံရန် သဘောတူပါသည်။
 
-* These terms can change anytime and don't cancel any other agreements made
-  regarding other tools offered by ICRC.
+* ဤစည်းကမ်းချက်များကို အချိန်မရွေး ပြောင်းလဲနိုင်ပြီး အိုင်စီအာရ်စီက ပေးအပ်သော အခြားပစ္စည်းကိရိယာများနှင့်ပတ်သက်၍ ပြုလုပ်ထားသည့် အခြားသဘောတူညီချက်များကို ပယ်ဖျက်ခြင်းမပြုပါ။
 
-* These terms are governed by Swiss law, and any disagreements will be resolved
-  in Switzerland, in French.
+* ဤစည်းကမ်းချက်များကို ဆွစ်ဇာလန်ဥပဒေဖြင့် ပြုလုပ်ပြီး မည်သည့်သဘောထားကွဲလွဲမှုကိုမဆို ဆွစ်ဇာလန်နိုင်ငံတွင် ပြင်သစ်ဘာသာဖြင့် ဖြေရှင်းမည်ဖြစ်ပါသည်။
